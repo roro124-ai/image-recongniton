@@ -1,0 +1,19 @@
+body{
+    background-color: darkblue ;
+    color: cyan;
+}
+.heading{
+    width: 80%;
+    font-size: large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+#camera{
+    width: 350px;
+    height: 350px;
+    border: black;
+    border-style:dotted ;
+}
+.name_of_object,#result_object_name,#result_object_accuracy{
+    color: yellow;   
+}
+
